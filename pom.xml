@@ -104,7 +104,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://18.217.91.221:8081/repository/ChaiSnap/</url>
+	      <url>http://13.233.99.232:8081/repository/CTS-SNAPSHOT/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
